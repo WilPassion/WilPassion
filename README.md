@@ -1,4 +1,4 @@
-### Hello, my name is William Santos! 😃
+### Hello, my name is William! 😃
 
 -  🤓I am currently studying Big Data with focus on Business Intelligence at the Fatec Ipiranga college
 -  💾Learning some technologies such as SQL and Python in order to deep myself in Data Science
