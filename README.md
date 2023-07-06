@@ -18,7 +18,7 @@
  
 <div>
   
-  <a href="https://www.instagram.com/wilpassion4_u/" target="_blank"><img src="[https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://static.wixstatic.com/media/322cff_c3cd08ea165f4e41bdb604d646554fc5~mv2.png/v1/fit/w_500,h_500,q_90/file.png)" target="_blank"></a>
+  <a href="https://www.instagram.com/wilpassion4_u/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://static.wixstatic.com/media/322cff_c3cd08ea165f4e41bdb604d646554fc5~mv2.png/v1/fit/w_500,h_500,q_90/file.png)" target="_blank"></a>
   <a href="https://www.instagram.com/wilpassion4_u/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/william-santos-194a76131/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
