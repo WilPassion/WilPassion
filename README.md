@@ -6,7 +6,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working as a Artificial Intelligence at **Compass UOL**  
+ 🔭 I’m currently working as a Artificial Intelligence Intern at **Compass UOL**  
  
  📝 Currently studying Big Data with focus on Business Intelligence at the **FATEC Ipiranga** college  
 
