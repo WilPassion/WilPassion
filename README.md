@@ -8,7 +8,7 @@
  
  🔭 I’m currently working as a Artificial Intelligence Intern at [**Compass UOL**](https://compass.uol/en/home/)  
  
- 📝 Currently studying Big Data with focus on Business Intelligence at the [**FATEC Ipiranga**](https://fatecipiranga.cps.sp.gov.br/cursos/big-data-para-negocios/) college  
+ 📝 Currently studying Big Data with focus on Business Intelligence at the [**FATEC Ipiranga**](https://fatecipiranga.cps.sp.gov.br/cursos/big-data-para-negocios/) college  - [Big Data Program Director - Professor Antônio Guardado](https://www.linkedin.com/in/antonio-fernando-nunes-guardado-7bb40b135/)
 
  👨🏽‍🤝‍👨🏻 I would enjoy a lot to find amazing tech professionals and students in order to share knowlegde 
 
