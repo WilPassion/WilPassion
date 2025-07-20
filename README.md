@@ -6,9 +6,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working as a Artificial Intelligence Intern at **Compass UOL**  
+ 🔭 I’m currently working as a Artificial Intelligence Intern at [**Compass UOL**](https://compass.uol/en/home/)  
  
- 📝 Currently studying Big Data with focus on Business Intelligence at the **FATEC Ipiranga** college  
+ 📝 Currently studying Big Data with focus on Business Intelligence at the [**FATEC Ipiranga**](https://fatecipiranga.cps.sp.gov.br/cursos/big-data-para-negocios/) college  
 
  👨🏽‍🤝‍👨🏻 I would enjoy a lot to find amazing tech professionals and students in order to share knowlegde 
 
